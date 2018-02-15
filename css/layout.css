@@ -410,6 +410,10 @@ ul#nav li.current a { color: #F06000; }
     -webkit-animation: documentacao 2s ease;
 }
 
+.header_text_info{
+  color: #fff;
+}
+
 @-moz-keyframes php {
   0%   { width: 0px;  }
   100% { width: 80%;  }
