@@ -331,32 +331,32 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 .php {
-  	width: 80%;
+  	width: 70%;
   	-moz-animation: php 2s ease;
   	-webkit-animation: php 2s ease;
 }
 .laravel {
-  	width: 80%;
+  	width: 75%;
   	-moz-animation: laravel 2s ease;
   	-webkit-animation: laravel 2s ease;
 }
 .html5 {
-  	width: 70%;
+  	width: 65%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 .css3 {
-  	width: 70%;
+  	width: 65%;
   	-moz-animation: css3 2s ease;
   	-webkit-animation: css3 2s ease;
 }
 .javascript {
-  	width: 75%;
+  	width: 70%;
   	-moz-animation: javascript 2s ease;
   	-webkit-animation: javascript 2s ease;
 }
 .jquery {
-    width: 80%;
+    width: 65%;
     -moz-animation: jquery 2s ease;
     -webkit-animation: jquery 2s ease;
 }
@@ -366,17 +366,17 @@ ul#nav li.current a { color: #F06000; }
     -webkit-animation: android 2s ease;
 }
 .python {
-    width: 60%;
+    width: 45%;
     -moz-animation: python 2s ease;
     -webkit-animation: python 2s ease;
 }
 .sql {
-    width: 60%;
+    width: 65%;
     -moz-animation: sql 2s ease;
     -webkit-animation: sql 2s ease;
 }
 .git {
-    width: 80%;
+    width: 78%;
     -moz-animation: git 2s ease;
     -webkit-animation: git 2s ease;
 }
